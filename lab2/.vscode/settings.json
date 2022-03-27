@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "text": "plaintext",
+        "cmath": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp"
+    }
+}
